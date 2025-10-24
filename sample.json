@@ -1,0 +1,43 @@
+{
+  "schema": "pocket-classroom/v1",
+  "id": "sample123",
+  "meta": {
+    "title": "Introduction to the Solar System",
+    "subject": "Science",
+    "level": "Beginner",
+    "description": "Learn the basic facts about our Solar System, its planets, and a short quiz."
+  },
+  "notes": [
+    "The Solar System consists of the Sun and everything bound to it by gravity.",
+    "There are eight planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+    "The asteroid belt lies between Mars and Jupiter.",
+    "Earth is the only planet known to support life."
+  ],
+  "flashcards": [
+    { "front": "How many planets are in the Solar System?", "back": "Eight" },
+    { "front": "Which planet is known as the Red Planet?", "back": "Mars" },
+    { "front": "What lies between Mars and Jupiter?", "back": "The asteroid belt" },
+    { "front": "Which planet has the most moons?", "back": "Jupiter" }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet is closest to the Sun?",
+      "choices": ["Mercury", "Venus", "Earth", "Mars"],
+      "correct": 0,
+      "explanation": "Mercury is the smallest and closest planet to the Sun."
+    },
+    {
+      "q": "What planet is known for its rings?",
+      "choices": ["Earth", "Mars", "Saturn", "Jupiter"],
+      "correct": 2,
+      "explanation": "Saturn has a prominent system of rings made of ice and rock."
+    },
+    {
+      "q": "Which planet is farthest from the Sun?",
+      "choices": ["Neptune", "Uranus", "Pluto", "Saturn"],
+      "correct": 0,
+      "explanation": "Neptune is the eighth and farthest known planet from the Sun."
+    }
+  ],
+  "updatedAt": "2025-10-24T10:00:00.000Z"
+}
