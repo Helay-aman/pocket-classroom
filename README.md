@@ -40,3 +40,8 @@ A single-page web app (SPA) built with **HTML, CSS (Bootstrap), and Vanilla Java
 - JSON export/import with schema:
   ```json
   "schema": "pocket-classroom/v1"
+  
+  ## 🚀 Live Demo
+[View here](https://helay-aman.github.io/pocket-classroom/)
+
+
